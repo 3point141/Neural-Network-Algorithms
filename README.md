@@ -7,3 +7,5 @@ The code takes the input vectors, weights, learning constant and plots the updat
 # net.m
 The code multiplies two matrices
 
+#BAM_network.m
+This matlab code trains the weights for Bi-directional Associative Memory Network for english alphabects when made in a matrix of 5x3 
