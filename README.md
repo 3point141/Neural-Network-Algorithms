@@ -21,3 +21,6 @@ This matlab codes takes n number of input neurons with the following parameters:
 -> constant c2 
 -> external signal. 
 The code performs the mexican hat algorithm on these input neurons for and desired number of times. 
+
+# hamming_net.m
+These nets can be used to find exemplar that is closest to the bipolar input vector x. 
