@@ -24,3 +24,6 @@ The code performs the mexican hat algorithm on these input neurons for and desir
 
 # hamming_net.m
 These nets can be used to find exemplar that is closest to the bipolar input vector x. 
+
+# som.m
+Kohonen Self-Organizing Maps also known as topology preserving maps algorithm has been demonstrated with this code. 
