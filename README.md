@@ -27,3 +27,6 @@ These nets can be used to find exemplar that is closest to the bipolar input vec
 
 # som.m
 Kohonen Self-Organizing Maps also known as topology preserving maps algorithm has been demonstrated with this code. 
+
+# lvq.m
+The code shows how Linear Vector Quantization algorithm works. For now the code classifies 2 classes. Further improvement to the code will be made.
