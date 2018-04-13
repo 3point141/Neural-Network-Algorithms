@@ -34,4 +34,4 @@ The code shows how Linear Vector Quantization algorithm works. For now the code 
 # perceptron.m
 The code shows the implementation of perceptron learning algorithm for Logic gates.
 For the initial stage, AND Gate has been implemented whose input valus and target output can be easily modified in the code. 
-It take binary input and fetched bipolar output. This can also be modified.
+It takes binary input and fetches bipolar output. This can also be modified.
