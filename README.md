@@ -35,3 +35,7 @@ The code shows how Linear Vector Quantization algorithm works. For now the code 
 The code shows the implementation of perceptron learning algorithm for Logic gates.
 For the initial stage, AND Gate has been implemented whose input valus and target output can be easily modified in the code. 
 It takes binary input and fetches bipolar output. This can also be modified.
+
+# madaline.m
+The code shows the implementation of madaline learning algorithm for the logic gates.
+For the initial stage, the XOR Gate has been implemented. The target input can be easily modified in the code as per requirement of the gates. The code takes bipolar input and fetches bipolar output (which can be modified as per the need). 
